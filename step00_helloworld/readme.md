@@ -11,7 +11,7 @@ ionic platform add ios
 To view your application through the web browser run the following command:
 ionic serve
 
-Read Lesson 1 of the book:
+Read Lesson 1 and 2 of the book:
 
 https://www.joshmorony.com/building-mobile-apps-with-ionic-2/
 
